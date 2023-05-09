@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2023-02-23T19:40:53.945Z",
-    "end": "2023-02-23T19:40:57.011Z",
-    "duration": 3066
+    "start": "2023-05-09T21:49:36.339Z",
+    "end": "2023-05-09T21:49:39.021Z",
+    "duration": 2682
   },
   "tests": [
     {
@@ -90,14 +90,14 @@
     {
       "title": "charges 25 dollars for a distance over 2000 feet",
       "fullTitle": "index.js calculatesFarePrice(start, destination) charges 25 dollars for a distance over 2000 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js calculatesFarePrice(start, destination) does not allow rides over 2500 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -185,14 +185,14 @@
     {
       "title": "charges 25 dollars for a distance over 2000 feet",
       "fullTitle": "index.js calculatesFarePrice(start, destination) charges 25 dollars for a distance over 2000 feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "does not allow rides over 2500 feet",
       "fullTitle": "index.js calculatesFarePrice(start, destination) does not allow rides over 2500 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
